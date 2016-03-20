@@ -8,7 +8,7 @@ namespace GetResponseTests
 {
     public static class SeleniumParameters
     {
-        public static string IeDriverPath = ".";
+        public static string IeDriverPath = "."; 
 
         public static string GetResponseURL = "https://app.getresponse.com/login.html";
     }

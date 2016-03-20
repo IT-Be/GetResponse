@@ -8,7 +8,7 @@ namespace GetResponseTests
     {
         public static IWebDriver ConfigureDriver(IWebDriver driver, string driverType, string driverPath)
         {
-            switch (driverType)
+            switch (driverType) 
             {
                 case "ie":
                     {

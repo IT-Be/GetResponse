@@ -8,7 +8,7 @@ namespace GetResponse.Tests
     [TestClass()]
     public class ProgramTests
     {
-        private IWebDriver _driver;
+        private IWebDriver _driver; 
 
         [TestInitialize()]
         public void BeforeTests()
